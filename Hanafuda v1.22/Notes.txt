@@ -1,3 +1,0 @@
-Anywhere you need the card data, just import { cardsData } from './cardsData.js';.
-
-file:///C:/Users/arto.douy/OneDrive%20-%20KARNOV%20GLOBAL/Bagremov/VoidsThatMatter/HanafudaJS/Hanafuda%20v1.22/index.html
